@@ -135,3 +135,13 @@ minhaClosure(); // Saída: "Olá, Mundo!"
 A função *externa* define uma variável *mensagem* e uma função interna que acessa *mensagem*.
 *externa* retorna a função *interna*.
 Mesmo após a execução de *externa*, a função *minhaClosure* (que é *interna*) ainda consegue acessar *mensagem* devido à closure.
+
+## Autores
+
+- Alecsndro Sales - hoisting e closure
+- Ana Clara Soares - Promises
+- Arthur Santps Marques - Arrow Functions
+- Luis Filipe - Desestruturação  e AJAX
+- Murilo de Oliveira Pinho - Async / await
+- Jhonatan Natanel - Fetch api
+
